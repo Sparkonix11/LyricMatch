@@ -1,0 +1,13 @@
+# Environment files
+**/.env
+
+# Python cache files
+**/__pycache__/
+*.py[cod]
+
+# Database files
+**/instance/
+**/instance/*.db
+
+# Virtual environment (if you have one)
+**/venv/
