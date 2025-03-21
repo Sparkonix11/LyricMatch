@@ -1,12 +1,12 @@
 # Backend-related files
-backend/venv/
-backend/.env
+../backend/venv/
+../backend/.env
 
 # Frontend-related files
-frontend/.env
+.env
 
 # Python cache files
-**/__pycache__/
+../../**/__pycache__/
 
 # Logs
 logs/
