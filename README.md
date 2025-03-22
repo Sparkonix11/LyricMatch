@@ -1,4 +1,3 @@
-```markdown
 # "Lyric Match" - AI-Powered Song Guessing Game
 
 This repository contains a full-stack web application with a Vite-powered React frontend and a Flask backend. Follow the steps below to set up the development environment for both the frontend and backend.
@@ -91,4 +90,4 @@ This will run the Flask app, and it will be accessible at `http://localhost:8080
 - The frontend will be accessible at `http://localhost:5173`.
 - The backend will be accessible at `http://localhost:8080`.
 
-Make sure both servers are running to interact with the full application.
+Make sure both servers are running to interact with the full application.gitt
